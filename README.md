@@ -28,6 +28,6 @@ JavaScript • SQL • Java • React.js • Node.js • Express.js • REST API
 🌱 I enjoy learning by building impactful products, collaborating with teams, and solving practical problems through technology.  
 
 📫 Connect with me:  
-LinkedIn: https://linkedin.com/in/yourprofile  
-GitHub: https://github.com/yourgithub  
-Email: yourmail@gmail.com  
+LinkedIn: https://www.linkedin.com/in/iqramasi
+GitHub: https://github.com/Iqramasi
+Email: iqramasi121@gmail.com 
