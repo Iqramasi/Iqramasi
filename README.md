@@ -8,7 +8,7 @@ I’m a Computer Science Engineering student passionate about building real-worl
 💻 Currently working on browser extensions, AI & signal-processing healthcare projects, data analytics systems, and full-stack applications.  
 
 🛠️ Tech Stack:  
-Python • JavaScript • SQL • Java • C++ • React.js • Node.js • Express.js • REST APIs • MySQL • PostgreSQL • Docker • Git/GitHub • Power BI • Machine Learning • Pandas • NumPy  
+JavaScript • SQL • Java • React.js • Node.js • Express.js • REST APIs • MySQL • PostgreSQL • Docker • Git/GitHub • Power BI •  Pandas • NumPy  
 
 🏆 Highlights:  
 - Won a hackathon by building an innovative real-world solution  
